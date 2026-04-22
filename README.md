@@ -40,12 +40,10 @@ portofolio/
 `- README.md
 ```
 
-## Jalankan di Local
-
-Karena ini static website, cukup buka lewat web server lokal (Laragon):
+## Copy Link dibawah ini untuk membuka
 
 ```text
-http://localhost/portofolio/
+[http://localhost/portofolio/](https://portofolio-hadid512.vercel.app/)
 ```
 
 ## Catatan
