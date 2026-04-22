@@ -43,7 +43,7 @@ portofolio/
 ## Copy Link dibawah ini untuk membuka
 
 ```text
-[http://localhost/portofolio/](https://portofolio-hadid512.vercel.app/)
+https://portofolio-hadid512.vercel.app/
 ```
 
 ## Catatan
